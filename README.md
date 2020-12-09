@@ -9,6 +9,8 @@
 <br>
 <h1>📱Technolgies Used</h1>
 <ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
   <li>React.js</li>
   <li>Cloudinary</li>
 </ul>
